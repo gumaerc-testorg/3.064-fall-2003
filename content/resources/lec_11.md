@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-064-polymer-engineering-fall-2003/7477518853e1a1ec16292076e6995eb9_lec_11.pdf
+file: /media/courses/3-064-polymer-engineering-fall-2003/7477518853e1a1ec16292076e6995eb9_lec_11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec_11.pdf
 uid: 74775188-53e1-a1ec-1629-2076e6995eb9

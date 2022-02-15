@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Chain Conformation; Kinetic Theory of Rubber Eelasticity
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-064-polymer-engineering-fall-2003/c25e0bd75e23e477c1cb954a59a05310_lec_6.pdf
+file: /media/courses/3-064-polymer-engineering-fall-2003/c25e0bd75e23e477c1cb954a59a05310_lec_6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec_6.pdf
 uid: c25e0bd7-5e23-e477-c1cb-954a59a05310
