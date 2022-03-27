@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b0c235dc-c400-8bcf-38ab-5b607865ad30
 resourcetype: Document
 title: kerimid.pdf
 uid: d5de4af9-01ac-ea10-55e7-65c2ba53f442

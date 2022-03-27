@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: df215385-b382-ea0f-4ca1-e5b48b645bc9
 resourcetype: Document
 title: mc_crum_1_15.pdf
 uid: 6fde03f1-c5cb-e9f7-35e3-e4319837c93f
