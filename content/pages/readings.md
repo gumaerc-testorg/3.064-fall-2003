@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -19,7 +20,7 @@ Ko, Frank K., Sueo Kawabata, Mari Inoue, Masako Niwa, Stephen Fossey, and John W
 
 Ritter, Steve. "Erasers: Rubber 'Graphite Grabbers' are Simple but Indispensable Tools for Home and Office." _Chemical & Engineering News,_ December 16, 2002, 33.
 
-Roylance, David. "Finite Element Analysis of Nonisothermal Reactive Flows." ([PDF]({{< baseurl >}}/resources/flow))
+Roylance, David. "Finite Element Analysis of Nonisothermal Reactive Flows." ({{% resource_link ff7e267d-659b-4d56-b6ee-1bece01144fb "PDF" %}})
 
 Thayer, Ann. "Silly Putty." _Chemical & Engineering News,_ November 27, 2000, 27.
 
