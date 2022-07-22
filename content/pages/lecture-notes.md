@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 8ee0e665-f202-6c43-88b6-7964d5837473
 ---
@@ -22,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction, Overview of Polymeric Materials ([PDF]({{< baseurl >}}/resources/lec_1))
+Introduction, Overview of Polymeric Materials ({{% resource_link 4c705c19-c20b-9dbd-b88a-6468a812eecd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Introduction, Overview of Polymeric Materials ([PDF]({{< baseurl >}}/resources/l
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Polymerization and Crosslinking ([PDF]({{< baseurl >}}/resources/lec_2))
+Polymerization and Crosslinking ({{% resource_link 1a92f861-7394-4685-bd82-d50f9ad9ea32 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Polymerization and Crosslinking ([PDF]({{< baseurl >}}/resources/lec_2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Tacticity, Molecular Weight ([PDF]({{< baseurl >}}/resources/lec_3))
+Tacticity, Molecular Weight ({{% resource_link b84a6699-a65e-fb13-071b-207dc0a467c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Tacticity, Molecular Weight ([PDF]({{< baseurl >}}/resources/lec_3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Crystallinity, Glass Transition Temperature ([PDF]({{< baseurl >}}/resources/lec_4))
+Crystallinity, Glass Transition Temperature ({{% resource_link e9a928e4-e032-bd21-c6f8-f727d2b8a4ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ Crystallinity, Glass Transition Temperature ([PDF]({{< baseurl >}}/resources/lec
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Molecular Orientation ([PDF]({{< baseurl >}}/resources/lec_5))
+Molecular Orientation ({{% resource_link 86645ceb-f04d-21c9-c083-45b3fe24e127 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ Molecular Orientation ([PDF]({{< baseurl >}}/resources/lec_5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Chain Conformation, Kinetic Theory of Rubber Elasticity ([PDF]({{< baseurl >}}/resources/lec_6))
+Chain Conformation, Kinetic Theory of Rubber Elasticity ({{% resource_link c25e0bd7-5e23-e477-c1cb-954a59a05310 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ Chain Conformation, Kinetic Theory of Rubber Elasticity ([PDF]({{< baseurl >}}/r
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Mechanics of Elastomers ([PDF]({{< baseurl >}}/resources/lec_7))
+Mechanics of Elastomers ({{% resource_link 03f9ac34-5169-74db-f32a-aceac9031136 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +89,7 @@ Mechanics of Elastomers ([PDF]({{< baseurl >}}/resources/lec_7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Viscoelasticity - Creep, Stress Relaxation ([PDF]({{< baseurl >}}/resources/lec_8))
+Viscoelasticity - Creep, Stress Relaxation ({{% resource_link 3f99facf-fed2-1941-e562-419d5d32e8a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +98,7 @@ Viscoelasticity - Creep, Stress Relaxation ([PDF]({{< baseurl >}}/resources/lec_
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Dynamic Response ([PDF]({{< baseurl >}}/resources/lec_10))
+Dynamic Response ({{% resource_link da6d8668-ac1f-9730-77e4-0fb6b8a83aaa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +107,7 @@ Dynamic Response ([PDF]({{< baseurl >}}/resources/lec_10))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Maxwell Models ([PDF]({{< baseurl >}}/resources/lec_11))
+Maxwell Models ({{% resource_link 74775188-53e1-a1ec-1629-2076e6995eb9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +116,7 @@ Maxwell Models ([PDF]({{< baseurl >}}/resources/lec_11))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Zener Model ([PDF]({{< baseurl >}}/resources/lec_12))
+Zener Model ({{% resource_link 107c248d-abe5-57a4-7466-1348e4dbefa8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +125,7 @@ Zener Model ([PDF]({{< baseurl >}}/resources/lec_12))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Distribution of Relaxation Times ([PDF]({{< baseurl >}}/resources/lec_13))
+Distribution of Relaxation Times ({{% resource_link cbbe936b-bd09-f174-6be4-686b1903266c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +134,7 @@ Distribution of Relaxation Times ([PDF]({{< baseurl >}}/resources/lec_13))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Effect of Temperature ([PDF]({{< baseurl >}}/resources/lec_14))
+Effect of Temperature ({{% resource_link 2c549498-cd85-7fa3-6700-40a7d452cefd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +152,7 @@ Stiffness
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Stress Analysis ([PDF]({{< baseurl >}}/resources/lec_16))
+Stress Analysis ({{% resource_link 15d25a3c-290b-f465-5620-a12c78fe6ebb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +161,7 @@ Stress Analysis ([PDF]({{< baseurl >}}/resources/lec_16))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Yielding and Crazing ([PDF]({{< baseurl >}}/resources/lec_19))
+Yielding and Crazing ({{% resource_link 182d4539-d0fb-9d02-5512-7cade0db4e75 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +170,7 @@ Yielding and Crazing ([PDF]({{< baseurl >}}/resources/lec_19))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Linear Fracture Mechanics ([PDF]({{< baseurl >}}/resources/lec_20))
+Linear Fracture Mechanics ({{% resource_link bfbb0e99-a3a9-5097-9a33-4a475bc9c2bf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +188,7 @@ Elastic-plastic Fracture
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Brittle Fracture, Toughening ([PDF]({{< baseurl >}}/resources/lec_22))
+Brittle Fracture, Toughening ({{% resource_link e06188ae-2b3e-2070-5f67-4519f14aa305 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +197,7 @@ Brittle Fracture, Toughening ([PDF]({{< baseurl >}}/resources/lec_22))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Composites ([PDF]({{< baseurl >}}/resources/lec_23))
+Composites ({{% resource_link 0dea7930-4c91-9217-e10d-32ed1ea0b575 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +206,7 @@ Composites ([PDF]({{< baseurl >}}/resources/lec_23))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Matrices and Reinforcements ([PDF]({{< baseurl >}}/resources/lec_24))
+Matrices and Reinforcements ({{% resource_link 73e7e196-084a-1efd-427f-41cf15b52888 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +224,7 @@ Composites Fabrication
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Mechanics of Continuous Fibers ([PDF]({{< baseurl >}}/resources/lec_26))
+Mechanics of Continuous Fibers ({{% resource_link 99fe1054-bbf4-a6a2-dfef-e623af7227f9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +233,7 @@ Mechanics of Continuous Fibers ([PDF]({{< baseurl >}}/resources/lec_26))
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Discontinuous Fibers, Reinforced Rubber ([PDF]({{< baseurl >}}/resources/lec_27))
+Discontinuous Fibers, Reinforced Rubber ({{% resource_link c3f54a48-9289-49fc-93b2-1754e6843881 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +251,7 @@ Melt Processing
 28
 {{< tdclose >}}
 {{< tdopen >}}
-Transport Theory, Viscous Flow ([PDF]({{< baseurl >}}/resources/lec_31))
+Transport Theory, Viscous Flow ({{% resource_link 8edd5f56-1db9-551b-0a52-09b1ddc9812c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +260,7 @@ Transport Theory, Viscous Flow ([PDF]({{< baseurl >}}/resources/lec_31))
 29
 {{< tdclose >}}
 {{< tdopen >}}
-Viscous Flow Continued ([PDF]({{< baseurl >}}/resources/lec_32))
+Viscous Flow Continued ({{% resource_link 3a4b0d2e-c289-2222-1acf-907dad742680 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +269,7 @@ Viscous Flow Continued ([PDF]({{< baseurl >}}/resources/lec_32))
 30
 {{< tdclose >}}
 {{< tdopen >}}
-Cooling and Solidification ([PDF]({{< baseurl >}}/resources/lec_33))
+Cooling and Solidification ({{% resource_link 7886c717-6920-56e8-ae2a-334f5db218a1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +278,7 @@ Cooling and Solidification ([PDF]({{< baseurl >}}/resources/lec_33))
 31
 {{< tdclose >}}
 {{< tdopen >}}
-Extrusion ([PDF]({{< baseurl >}}/resources/lec_34))
+Extrusion ({{% resource_link 5e7320a9-33ab-de4c-594a-14768854a770 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +287,7 @@ Extrusion ([PDF]({{< baseurl >}}/resources/lec_34))
 32
 {{< tdclose >}}
 {{< tdopen >}}
-Injection Molding ([PDF]({{< baseurl >}}/resources/lec_35))
+Injection Molding ({{% resource_link 7044f1c1-a62f-deba-b4d3-70674c921206 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,7 +296,7 @@ Injection Molding ([PDF]({{< baseurl >}}/resources/lec_35))
 33
 {{< tdclose >}}
 {{< tdopen >}}
-Thermosets and Thermoforming ([PDF]({{< baseurl >}}/resources/lec_36))
+Thermosets and Thermoforming ({{% resource_link 99e9753f-de79-645d-dadc-09d8835c6d24 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +305,7 @@ Thermosets and Thermoforming ([PDF]({{< baseurl >}}/resources/lec_36))
 34
 {{< tdclose >}}
 {{< tdopen >}}
-Elements of Design ([PDF]({{< baseurl >}}/resources/lec_37))
+Elements of Design ({{% resource_link b5907d06-db2f-28f1-ccd7-b4acc0064b7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +314,7 @@ Elements of Design ([PDF]({{< baseurl >}}/resources/lec_37))
 35
 {{< tdclose >}}
 {{< tdopen >}}
-Materials Selection ([PDF]({{< baseurl >}}/resources/lec_39))
+Materials Selection ({{% resource_link 2ec67f93-b274-b7e5-fa42-d5a656ca8f18 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
