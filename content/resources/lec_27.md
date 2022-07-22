@@ -5,6 +5,7 @@ file: /courses/3-064-polymer-engineering-fall-2003/c3f54a48928949fc93b21754e6843
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

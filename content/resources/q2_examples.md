@@ -5,6 +5,7 @@ file: /courses/3-064-polymer-engineering-fall-2003/21eb022a5848576a2953336c1eb10
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
