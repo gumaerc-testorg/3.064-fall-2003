@@ -2,6 +2,7 @@
 content_type: resource
 description: Notes on fluids
 file: /courses/3-064-polymer-engineering-fall-2003/8edd5f561db9551b0a5209b1ddc9812c_lec_31.pdf
+file_size: 190118
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
