@@ -2,6 +2,7 @@
 content_type: resource
 description: Introduction; Overview of Polymeric Materials
 file: /courses/3-064-polymer-engineering-fall-2003/4c705c19c20b9dbdb88a6468a812eecd_lec_1.pdf
+file_size: 147955
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

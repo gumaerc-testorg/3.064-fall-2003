@@ -2,6 +2,7 @@
 content_type: resource
 description: Notes on effect of Temperature
 file: /courses/3-064-polymer-engineering-fall-2003/2c549498cd857fa3670040a7d452cefd_lec_14.pdf
+file_size: 237220
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Notes on Viscous Flow
 file: /courses/3-064-polymer-engineering-fall-2003/3a4b0d2ec28922221acf907dad742680_lec_32.pdf
+file_size: 109802
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

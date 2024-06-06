@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-064-polymer-engineering-fall-2003/182d4539d0fb9d0255127cade0db4e75_lec_19.pdf
+file_size: 177172
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
