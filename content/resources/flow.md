@@ -2,6 +2,7 @@
 content_type: resource
 description: Operating principles of a general finite element code.
 file: /courses/3-064-polymer-engineering-fall-2003/ff7e267d659b4d56b6ee1bece01144fb_flow.pdf
+file_size: 264954
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

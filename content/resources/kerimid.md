@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-064-polymer-engineering-fall-2003/d5de4af901acea1055e765c2ba53f442_kerimid.pdf
+file_size: 439838
 file_type: application/pdf
 learning_resource_types:
 - Readings
