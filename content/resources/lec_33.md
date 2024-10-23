@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes on Cooling and Solidification
-file: /courses/3-064-polymer-engineering-fall-2003/7886c717692056e8ae2a334f5db218a1_lec_33.pdf
+file: /ol-ocw-studio-app/courses/3-064-polymer-engineering-fall-2003/7886c717692056e8ae2a334f5db218a1_lec_33.pdf
 file_size: 137690
 file_type: application/pdf
 learning_resource_types:
