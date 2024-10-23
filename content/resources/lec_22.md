@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes on fracture
-file: /courses/3-064-polymer-engineering-fall-2003/e06188ae2b3e20705f674519f14aa305_lec_22.pdf
+file: /ol-ocw-studio-app/courses/3-064-polymer-engineering-fall-2003/e06188ae2b3e20705f674519f14aa305_lec_22.pdf
 file_size: 32852
 file_type: application/pdf
 learning_resource_types:
