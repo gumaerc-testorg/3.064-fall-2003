@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes on Thermosets and Thermoforming
-file: /ol-ocw-studio-app/courses/3-064-polymer-engineering-fall-2003/99e9753fde79645ddadc09d8835c6d24_lec_36.pdf
+file: /courses/3-064-polymer-engineering-fall-2003/99e9753fde79645ddadc09d8835c6d24_lec_36.pdf
 file_size: 92114
 file_type: application/pdf
 learning_resource_types:
