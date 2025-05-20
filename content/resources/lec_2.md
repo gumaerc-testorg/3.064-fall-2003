@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Polymerization and Crosslinking
-file: /ol-ocw-studio-app/courses/3-064-polymer-engineering-fall-2003/1a92f86173944685bd82d50f9ad9ea32_lec_2.pdf
+file: /courses/3-064-polymer-engineering-fall-2003/1a92f86173944685bd82d50f9ad9ea32_lec_2.pdf
 file_size: 234764
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tacticity, Molecular Weight
-file: /ol-ocw-studio-app/courses/3-064-polymer-engineering-fall-2003/b84a6699a65efb13071b207dc0a467c2_lec_3.pdf
+file: /courses/3-064-polymer-engineering-fall-2003/b84a6699a65efb13071b207dc0a467c2_lec_3.pdf
 file_size: 65967
 file_type: application/pdf
 learning_resource_types:
