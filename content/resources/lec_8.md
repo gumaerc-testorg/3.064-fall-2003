@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Viscoelasticity: Creep; Stress Relaxation'
-file: /courses/3-064-polymer-engineering-fall-2003/3f99facffed21941e562419d5d32e8a2_lec_8.pdf
+file: /ol-ocw-studio-app/courses/3-064-polymer-engineering-fall-2003/3f99facffed21941e562419d5d32e8a2_lec_8.pdf
 file_size: 69681
 file_type: application/pdf
 learning_resource_types:

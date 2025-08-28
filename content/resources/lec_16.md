@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Derivation on Stress Analysis
-file: /courses/3-064-polymer-engineering-fall-2003/15d25a3c290bf4655620a12c78fe6ebb_lec_16.pdf
+file: /ol-ocw-studio-app/courses/3-064-polymer-engineering-fall-2003/15d25a3c290bf4655620a12c78fe6ebb_lec_16.pdf
 file_size: 30727
 file_type: application/pdf
 learning_resource_types:

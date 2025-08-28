@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Crystallinity, Glass Transition Temperature
-file: /courses/3-064-polymer-engineering-fall-2003/e9a928e4e032bd21c6f8f727d2b8a4ac_lec_4.pdf
+file: /ol-ocw-studio-app/courses/3-064-polymer-engineering-fall-2003/e9a928e4e032bd21c6f8f727d2b8a4ac_lec_4.pdf
 file_size: 114396
 file_type: application/pdf
 learning_resource_types:
