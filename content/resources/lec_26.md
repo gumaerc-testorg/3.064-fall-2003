@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-064-polymer-engineering-fall-2003/99fe1054bbf4a6a2dfefe623af7227f9_lec_26.pdf
+file: /ol-ocw-studio-app/courses/3-064-polymer-engineering-fall-2003/99fe1054bbf4a6a2dfefe623af7227f9_lec_26.pdf
 file_size: 42638
 file_type: application/pdf
 learning_resource_types:
